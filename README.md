@@ -1,5 +1,4 @@
 <h1>Patient Appointment Management System</h1>
-<h1>Patient Appointment Management System</h1>
 <p>
 •	Designed and developed a web-based patient appointment management system using .NET Core (C#) for the backend and React (TypeScript) for the frontend.<br/>
 •	Implemented features such as patient registration, doctor availability management, appointment scheduling, and email notifications.<br/>
