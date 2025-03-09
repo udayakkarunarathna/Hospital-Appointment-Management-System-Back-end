@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2W6FiFD+IVOxC8Pz6ixo74LUQLAnfDAj0D0bCag5yFQ=",
+  "Source": "HospitalAppointmentManagementApp",
+  "BasePath": "_content/HospitalAppointmentManagementApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
